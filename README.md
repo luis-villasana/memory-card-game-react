@@ -16,3 +16,7 @@ Players flip cards to find matching pairs. If two flipped cards do not match, th
 - If the cards do **not** match:
   - They flip back over
 - The game ends when all matching pairs are found
+
+## Purpose
+
+Built to practice React
