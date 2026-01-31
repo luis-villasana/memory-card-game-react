@@ -19,4 +19,4 @@ Players flip cards to find matching pairs. If two flipped cards do not match, th
 
 ## Purpose
 
-Built to practice React
+Built to practice React.
